@@ -1,0 +1,20 @@
+body {
+	background-color: #abdbae;
+	font-family: "Sour Gummy", sans-serif;
+}
+
+.container {
+	background-color: white;
+	border-radius: 10px;
+	margin: auto;
+	width: 800px;
+	text-align: center;
+}
+
+.btn-primary {
+	background-color: #38ab40;
+
+}
+.button:hover {
+	background-color: #ff8269;
+}
